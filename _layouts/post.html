@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article class="post">
+  <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d/%m/%Y' }}</time> · <span class="tag">{{ page.category }}</span></p>
+  <h1>{{ page.title }}</h1>
+  <img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
+  <div class="content">{{ content }}</div>
+  <nav class="post-nav">
+    {% if page.previous %}<a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>{% else %}<span></span>{% endif %}
+    {% if page.next %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>{% endif %}
+  </nav>
+</article>

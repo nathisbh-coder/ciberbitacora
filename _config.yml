@@ -1,0 +1,8 @@
+title: "CiberBitácora"
+description: "Blog de ciberseguridad práctica para personas y empresas"
+author: "Nathaly Barreto"
+baseurl: "/ciberbitacora"
+url: ""
+lang: es
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
