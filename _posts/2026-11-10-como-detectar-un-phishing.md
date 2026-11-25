@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo detectar un correo de phishing en 30 segundos"
 category: Concienciación
-image: /assets/img/phishing.png
+image: /assets/img/phishing.jpg
 image_alt: "Ilustración de un sobre atrapado por un anzuelo"
 ---
 El **phishing** sigue siendo la puerta de entrada de la mayoría de ciberataques. Un correo bien diseñado puede engañar a cualquiera, pero casi todos dejan pistas.
