@@ -2,7 +2,7 @@
 layout: post
 title: "Contraseñas seguras: deja de reutilizarlas"
 category: Buenas prácticas
-image: /assets/img/passwords.png
+image: /assets/img/pass.jpg
 image_alt: "Ilustración de un candado verde con caracteres ocultos"
 ---
 Reutilizar la misma contraseña en varios servicios es como usar **una única llave** para casa, coche y oficina: si la pierdes, lo pierdes todo.
